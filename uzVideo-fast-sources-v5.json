@@ -1,0 +1,224 @@
+{
+  "panTools": [],
+  "danMu": [],
+  "recommend": [],
+  "live": [],
+  "vod": [
+    {
+      "name": "非凡",
+      "version": 1,
+      "remark": "实测278ms · 来源:v2精选",
+      "webSite": "",
+      "api": "http://ffzy.tv/api.php/provide/vod",
+      "type": 0,
+      "order": "D01"
+    },
+    {
+      "name": "建安",
+      "version": 1,
+      "remark": "实测306ms · 来源:v2精选",
+      "webSite": "",
+      "api": "http://154.219.117.232:9981/jacloudapi.php/provide/vod",
+      "type": 0,
+      "order": "D02"
+    },
+    {
+      "name": "非凡资源站",
+      "version": 1,
+      "remark": "实测346ms · 来源:v2精选",
+      "webSite": "",
+      "api": "https://ffzy5.tv/api.php/provide/vod/",
+      "type": 0,
+      "order": "D03"
+    },
+    {
+      "name": "创享影视",
+      "version": 1,
+      "remark": "实测469ms · 来源:v2精选",
+      "webSite": "",
+      "api": "https://ys.cxkjg.cn/api/provide/vod",
+      "type": 0,
+      "order": "D04"
+    },
+    {
+      "name": "电影天堂",
+      "version": 1,
+      "remark": "实测507ms · 来源:v2精选",
+      "webSite": "",
+      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
+      "type": 0,
+      "order": "D05"
+    },
+    {
+      "name": "量子资源",
+      "version": 1,
+      "remark": "实测744ms · 来源:v2精选",
+      "webSite": "",
+      "api": "http://cj.lziapi.com/api.php/provide/vod/",
+      "type": 0,
+      "order": "D06"
+    },
+    {
+      "name": "猫眼资源",
+      "version": 1,
+      "remark": "实测800ms · 来源:v2精选",
+      "webSite": "",
+      "api": "https://api.maoyanapi.top/api.php/provide/vod/",
+      "type": 0,
+      "order": "D07"
+    },
+    {
+      "name": "新浪资源",
+      "version": 1,
+      "remark": "实测926ms · 来源:v2精选",
+      "webSite": "",
+      "api": "http://api.xinlangapi.com/xinlangapi.php/provide/vod",
+      "type": 0,
+      "order": "D08"
+    },
+    {
+      "name": "索尼",
+      "version": 1,
+      "remark": "实测954ms · 来源:v2精选",
+      "webSite": "",
+      "api": "https://suoniapi.com/api.php/provide/vod/",
+      "type": 0,
+      "order": "D09"
+    },
+    {
+      "name": "无尽资源(me)",
+      "version": 1,
+      "remark": "实测1079ms · 来源:v2精选",
+      "webSite": "",
+      "api": "https://api.wujinapi.me/api.php/provide/vod/",
+      "type": 0,
+      "order": "D10"
+    },
+    {
+      "name": "闪电",
+      "version": 1,
+      "remark": "实测1251ms · 来源:v2精选",
+      "webSite": "",
+      "api": "http://sdzyapi.com/api.php/provide/vod/",
+      "type": 0,
+      "order": "D11"
+    },
+    {
+      "name": "天堂采集",
+      "version": 1,
+      "remark": "实测1498ms · 来源:聚合提取",
+      "webSite": "",
+      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at/m3u8/",
+      "type": 0,
+      "order": "D12"
+    },
+    {
+      "name": "虎牙采集",
+      "version": 1,
+      "remark": "实测1989ms · 来源:老刘备",
+      "webSite": "",
+      "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8",
+      "type": 0,
+      "order": "D13"
+    },
+    {
+      "name": "极速",
+      "version": 1,
+      "remark": "实测2002ms · 来源:v2精选",
+      "webSite": "",
+      "api": "https://jszyapi.com/api.php/provide/vod",
+      "type": 0,
+      "order": "D14"
+    },
+    {
+      "name": "无尽采集",
+      "version": 1,
+      "remark": "实测2394ms · 来源:聚合提取",
+      "webSite": "",
+      "api": "https://api.wujinapi.net/api.php/provide/vod/",
+      "type": 0,
+      "order": "D15"
+    },
+    {
+      "name": "量子资源",
+      "version": 1,
+      "remark": "实测2888ms · 来源:聚合提取",
+      "webSite": "",
+      "api": "https://lzizy1.com/api.php/provide/vod/",
+      "type": 0,
+      "order": "D16"
+    },
+    {
+      "name": "百度采集",
+      "version": 1,
+      "remark": "实测3323ms · 来源:v2精选",
+      "webSite": "",
+      "api": "https://api.apibdzy.com/api.php/provide/vod",
+      "type": 0,
+      "order": "D17"
+    },
+    {
+      "name": "闪电资源(sdm3u8)",
+      "version": 1,
+      "remark": "实测4015ms · 来源:v2精选",
+      "webSite": "",
+      "api": "https://sdzyapi.com/api.php/provide/vod/from/sdm3u8/",
+      "type": 0,
+      "order": "D18"
+    },
+    {
+      "name": "非凡",
+      "version": 1,
+      "remark": "实测4107ms · 来源:v2精选",
+      "webSite": "",
+      "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
+      "type": 0,
+      "order": "D19"
+    },
+    {
+      "name": "非凡资源",
+      "version": 1,
+      "remark": "实测4495ms · 来源:v2精选",
+      "webSite": "",
+      "api": "http://api.ffzyapi.com/api.php/provide/vod/",
+      "type": 0,
+      "order": "D20"
+    },
+    {
+      "name": "滴滴资源站",
+      "version": 1,
+      "remark": "实测4502ms · 来源:v2精选",
+      "webSite": "",
+      "api": "https://api.ddapi.cc/api.php/provide/vod/",
+      "type": 0,
+      "order": "D21"
+    },
+    {
+      "name": "360资源站",
+      "version": 1,
+      "remark": "实测4544ms · 来源:v2精选",
+      "webSite": "",
+      "api": "https://360zy.com/api.php/provide/vod/",
+      "type": 0,
+      "order": "D22"
+    },
+    {
+      "name": "淘片采集",
+      "version": 1,
+      "remark": "实测10270ms · 来源:聚合提取",
+      "webSite": "",
+      "api": "https://taopianapi.com/cjapi/mc/vod/json.html",
+      "type": 0,
+      "order": "D23"
+    },
+    {
+      "name": "豪华资源",
+      "version": 1,
+      "remark": "实测13565ms · 来源:v2精选",
+      "webSite": "",
+      "api": "https://hhzyapi.com/api.php/provide/vod",
+      "type": 0,
+      "order": "D24"
+    }
+  ]
+}
